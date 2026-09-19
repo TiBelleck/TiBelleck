@@ -18,8 +18,8 @@ Desenvolvedor apaixonado por **inteligência artificial**, **automação** e **c
 |---------|-----------|--------|
 | [Extrator de Documentos Fiscais](https://github.com/TiBelleck/ai-document-extractor) | OCR + LLM para nota fiscal/boleto/orçamento, com validação determinística (CNPJ, CPF, chave de NF-e) — 27 testes | ✅ testado contra API real |
 | Motor de Atendimento WhatsApp + IA | Multi-cliente sobre a Cloud API oficial da Meta, com contenção de prompt injection e 84 testes automatizados | 🔒 privado — sob demanda |
+| NEXUS | Agente de voz com LLM e tool calling (busca web, leitura de arquivo, memória permanente), permissão mínima por ferramenta | 🔒 privado — sob demanda |
 | [JARVIS](https://github.com/TiBelleck/jarvis-workspace) | Agente pessoal autônomo com MCP, memória e automação | 🔨 em desenvolvimento |
-| [NEXUS](https://github.com/TiBelleck/Meu-primeiro-projeto-NEXUS) | Automação de voz, transcrição de áudio e integração com GitHub | 🧩 utilitários prontos, orquestração em construção |
 
 📁 [Portfólio completo →](https://github.com/TiBelleck/portfolio)
 
